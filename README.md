@@ -1,4 +1,4 @@
-# My Snake Gane
+# My Snake Game
 Welcome to My Snake Game written in Python. 
 
 How to Play
