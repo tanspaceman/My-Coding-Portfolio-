@@ -8,10 +8,10 @@ How to Play
 - The game ends when the snake collides with itself.
 
 Controls
-Up Arrow: Move the snake upward.
-Down Arrow: Move the snake downward.
-Left Arrow: Move the snake to the left.
-Right Arrow: Move the snake to the right.
+- Up Arrow: Move the snake upward.
+- Down Arrow: Move the snake downward.
+- Left Arrow: Move the snake to the left.
+- Right Arrow: Move the snake to the right.
 
 Prerequisites
 
